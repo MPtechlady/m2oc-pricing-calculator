@@ -20,3 +20,49 @@ Future versions, updates, and derivatives may be released under
 different commercial or proprietary licenses by THILEO Royal Co.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+
+
+---
+
+### ✅ What this gives you
+Badges instantly show:
+- version
+- stability
+- license
+- tech
+
+This makes your repo look:
+👉 product  
+👉 trustworthy  
+👉 startup-level professional  
+
+Perfect for LinkedIn visibility.
+
+---
+
+# ✅ Step 2 — Add version tag v1.0.0
+
+This is very important.
+
+Tags = **official releases**
+
+GitHub will show:
+
+👉 Releases → v1.0.0  
+Looks super professional.
+
+---
+
+## Run these commands
+
+Inside project root:
+
+```bash
+git add .
+git commit -m "Release: M2OC v1.0.0 – stable community edition"
+
+git tag v1.0.0
+
+git push origin main
+git push origin v1.0.0
